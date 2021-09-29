@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 10672,
+  "expoServerNgrokUrl": "https://yt-zpw.seyan.customer-service-mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.yt-zpw.seyan.customer-service-mobile.exp.direct",
+  "ngrokPid": 8664,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
